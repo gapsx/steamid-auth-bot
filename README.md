@@ -16,4 +16,16 @@ example:
 
 "token": "yourtokenhere"
 
-you can now start the bot without any error.
+# creating a database
+
+- create a new database on your server and run the code:
+
+CREATE TABLE `idsbot` (
+  `discordid` varchar(255) DEFAULT NULL,
+  `steamid` varchar(255) DEFAULT NULL,
+  `authenticated` varchar(255) DEFAULT '0'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+the bot will save the steamid the user entered and the discordid of the user who executed the command in the tables above
+
+now you can start the bot without errors.
