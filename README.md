@@ -8,7 +8,7 @@ to make the bot work you will need:
 - [discord.js library](https://discord.js.org/#/).
 - discord bot token (can be generated at [discord developer page](https://discord.com/developers/applications/))
 
-OBS: the file "auth.php" is used to read the ids in sequence on your lua script (you can use the [HTTP Library](https://gamesense.pub/forums/viewtopic.php?id=19253) for this)
+OBS: the file "auth.php" is used to read the id's in sequence on your lua script (you can use the [HTTP Library](https://gamesense.pub/forums/viewtopic.php?id=19253) for this)
 
 # setuping the bot
 
