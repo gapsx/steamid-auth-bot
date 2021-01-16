@@ -14,8 +14,6 @@ OBS: the file "auth.php" is used to read the id's in sequence on your lua script
 
 - put your token on config.json
 
-(auth.php file is for
-
 example:
 
 "token": "yourtokenhere"
